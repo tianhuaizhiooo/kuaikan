@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+
+target ‘QuickLook' do
+
+pod "AFNetworking"
+pod "MJExtension"
+pod "MJRefresh"
+pod "DACircularProgress"
+pod "pop"
+pod 'NJKWebViewProgress'
+pod 'Masonry'
+
+end
